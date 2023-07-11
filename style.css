@@ -159,6 +159,7 @@ line-height: 35px;
     margin-bottom: 20px;
     border-radius: 8px;
 background: rgba(214, 82, 110, 0.05);
+width: 100%;
 }
 .section3-h1{
     color: #272727;
@@ -203,4 +204,7 @@ height: 420px;
 flex-shrink: 0;
 padding-left: 40px;
 
+}
+.section4{
+    text-align: center;
 }
