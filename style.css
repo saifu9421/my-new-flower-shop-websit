@@ -118,3 +118,36 @@ background: rgba(71, 125, 17, 0.15);
 box-shadow: 10px 10px 5px #aaaaaa;
 
 }
+.section2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+gap:30px;
+padding: 50px;
+margin: 20px 80px 40px 80px;
+}
+.h4{
+  color: #000000;
+text-align: center;
+font-family: open sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+h4:hover{
+    color:#E55473;
+}
+.h3{
+    color: rgba(63, 61, 61, 0.8);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+}
